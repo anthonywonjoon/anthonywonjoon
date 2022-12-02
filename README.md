@@ -25,6 +25,11 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 
+##### Pinned Projects
+
+[![image](https://user-images.githubusercontent.com/89366304/205187734-1345a1ac-301e-4ade-a044-019dea297128.png)](https://github.com/anthonywonjoon/goofysurf)
+
+
 <!--
 **anthonywonjoon/anthonywonjoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
