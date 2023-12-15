@@ -1,20 +1,25 @@
-[![Anthony's GitHub Banner](./assets/anthony_banner.png)](https://www.linkedin.com/in/anthonywonjoon)
+![Banner](https://github.com/anthonywonjoon/anthonywonjoon/assets/89366304/7e394724-328f-452f-bf3f-9dba41763b7f)
 
 ##### Hi, I'm Anthony
 - 😄 Pronouns: He/Him
-- 🎓 Business (Management Information Systems) and Computer Science student at the University of Hawai'i at Manoa
-- 🔭 Looking for opportunities in Software Engineering, Product Management, or Consulting
+- 🎓 BBA in Management Information Systems, Minor in Computer Science, from the University of Hawaii at Manoa
+- 🔭 Looking for opportunities in Software Engineering, Product Management, or IT Consulting
 - 📫 You can reach me with the links below
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.wonjoonlee@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthonywonjoon/)
 
-##### Languages I use
+##### Languages and Frameworks I use
 
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![C# Badge](https://img.shields.io/badge/-CSharp-000000?style=flat&logo=csharp)
+
+![Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=spring)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express)
+![Dotnet](https://img.shields.io/badge/-.Net-000000?style=flat&logo=dotnet)
 
 ##### Some of the technologies I have worked with
 
@@ -23,7 +28,7 @@
 ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
-![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
+![Proxmox](https://img.shields.io/badge/-Proxmox-222222?style=flat&logo=proxmox)
 
 ##### Pinned Projects
 
